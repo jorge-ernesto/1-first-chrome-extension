@@ -1,0 +1,13 @@
+---- Notas ----
+
+Tu primera extensión de Google Chrome - YouTube
+https://youtu.be/JxbMHSvI2DA
+
+Codigo del Ejemplo
+https://github.com/fazt/first-chrome-extension
+
+Tutorial Escrito
+https://faztweb.com/contenido/crea-tu-primer-extension-de-google-chrome
+
+Documentación de las extensiones de Google Chrome
+https://developer.chrome.com/docs/extensions
